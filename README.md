@@ -7,4 +7,4 @@ Snehi Ratani
 
 Description:
 
-By this project we are trying to implement an online admission process which is a student admission management system, which is good and an easy way for reduce in hand work and making less handwork necessary. Student's database can be retrieved within quick interval of time proper maintaining of records can be achieved. Our system presently aims on creation of an good student admission management system for the colleges and universities to automate the selection of students.
+By this project we are trying to implement an online survey process which is a survey system for a company named Qvoid, which is a good and an easy way to reduce the paper work  and easy to analyze the answers of the surveys.Surveys data can be stored in the database which is easy to accessible and quick to fetch the records. Our system presently aims to focus on the customers respone.
